@@ -1,0 +1,9 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+.heading {
+  color: #18181b;
+  padding: var(--nextui-spacing-unit-4);
+  /* How you can use spacing unit by `prefix: 'nextui',` see setting for more detail  */
+}
